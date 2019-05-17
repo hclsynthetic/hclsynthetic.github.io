@@ -7,16 +7,8 @@
     </url>
 
     <url>
-        <loc>http://www.yoursite.com/article/Note1/</loc>
-        <lastmod>2019-05-14T12:23:19.341Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://www.yoursite.com/article/2019.3.20/</loc>
-        <lastmod>2019-05-14T08:20:09.733Z</lastmod>
+        <loc>http://www.yoursite.com/article/life1/</loc>
+        <lastmod>2019-05-17T04:44:22.627Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -24,23 +16,7 @@
 
     <url>
         <loc>http://www.yoursite.com/article/2018.11.15/</loc>
-        <lastmod>2019-05-14T08:06:58.785Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://www.yoursite.com/article/2018.9.22/</loc>
-        <lastmod>2019-05-14T07:58:14.740Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://www.yoursite.com/article/2018.9.2/</loc>
-        <lastmod>2019-05-14T07:49:52.498Z</lastmod>
+        <lastmod>2019-05-17T04:29:04.784Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -48,7 +24,39 @@
 
     <url>
         <loc>http://www.yoursite.com/article/2018.6.24/</loc>
-        <lastmod>2019-05-14T07:41:54.722Z</lastmod>
+        <lastmod>2019-05-17T04:29:04.242Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://www.yoursite.com/article/2018.9.2/</loc>
+        <lastmod>2019-05-17T04:29:03.506Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://www.yoursite.com/article/2018.9.22/</loc>
+        <lastmod>2019-05-17T04:29:02.560Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://www.yoursite.com/article/2019.3.20/</loc>
+        <lastmod>2019-05-17T04:29:01.970Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://www.yoursite.com/article/Note1/</loc>
+        <lastmod>2019-05-17T04:29:00.755Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
