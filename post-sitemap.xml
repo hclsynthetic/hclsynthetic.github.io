@@ -7,6 +7,70 @@
     </url>
 
     <url>
+        <loc>http://www.yoursite.com/article/2020.09.04/</loc>
+        <lastmod>2020-10-28T14:51:42.458Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://www.yoursite.com/article/2023.07.31/</loc>
+        <lastmod>2020-10-28T14:50:06.810Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://www.yoursite.com/article/2020.10.19/</loc>
+        <lastmod>2020-10-28T14:43:48.302Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://www.yoursite.com/article/2020.10.09/</loc>
+        <lastmod>2020-10-28T14:40:28.140Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://www.yoursite.com/article/2020.10.07/</loc>
+        <lastmod>2020-10-28T14:40:11.516Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://www.yoursite.com/article/2020.09.30/</loc>
+        <lastmod>2020-10-28T14:29:59.293Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://www.yoursite.com/article/2020.07.25/</loc>
+        <lastmod>2020-10-28T14:22:07.982Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://www.yoursite.com/article/2020.09.10/</loc>
+        <lastmod>2020-10-28T14:21:04.732Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://www.yoursite.com/article/2019.9.17/</loc>
         <lastmod>2019-09-17T12:40:32.293Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -33,14 +97,6 @@
     <url>
         <loc>http://www.yoursite.com/article/life2/</loc>
         <lastmod>2019-05-29T02:18:20.072Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://www.yoursite.com/article/share1/</loc>
-        <lastmod>2019-05-18T10:06:01.432Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
